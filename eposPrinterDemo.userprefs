@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="eposPrinterDemo/eposPrinterDemo.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPad2.9.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="eposPrinterDemo/ViewController.cs" Line="33" Column="3" />
+      <File FileName="eposPrinterDemo/ShowMsg.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>../../Desktop/Vishal/ePOS2_Lib/ePOS2_Lib/ePOS2_Lib.csproj</String>
+  </DisabledProjects>
+  <AuthorInfo Name="Vishal Rajpoot" Email="vishalrajput1812@gmail.com" Copyright="Vishal Rajpoot" Company="Student" Trademark="" />
+</Properties>
