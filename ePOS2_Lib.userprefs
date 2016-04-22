@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ePOS2_Lib/ePOS2_Lib.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ePOS2_Lib/libepos2.linkwith.cs">
+    <Files>
+      <File FileName="ePOS2_Lib/libepos2.linkwith.cs" Line="4" Column="159" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
